@@ -2,8 +2,6 @@
 
 Website designed and built for **Humanity and Mercy Practitioners**, a community-based organisation.
 
-https://humanitypractitioners.org
-
 ## What it includes
 
 - Fully responsive layout (mobile, tablet, desktop)
