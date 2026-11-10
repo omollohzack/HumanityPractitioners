@@ -1,28 +1,18 @@
-# HumanityPractitioners
-A sleek website for the community based organisation, Humanity and Mercy Practitioners.
+# Humanity and Mercy Practitioners — Website
 
-It is built with valid HTML5 & CSS3 and is based on latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices.
+Website designed and built for **Humanity and Mercy Practitioners**, a community-based organisation.
 
+## What it includes
 
-Key features
--------------
-Twitter Bootstrap 3.3.1
-Clean & Developer-friendly HTML5 and CSS3 code
-100% Responsive Layout Design
-Multipurpose theme
-Google Fonts Support
-Font Awesome 
-Smooth Scrolling 
+- Fully responsive layout (mobile, tablet, desktop)
+- Clean, developer-friendly HTML5 & CSS3
+- Smooth scrolling, Google Fonts, Font Awesome iconography
 
+## Tech
 
-Credits :
--------
-=> Design and developed: "omollohzack"  omollohzack2@gmail.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
+- HTML5 / CSS3 / JavaScript
+- Bootstrap framework
 
-=> Framework : http://getbootstrap.com
+## My role
 
-License :
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-
+Design, build, and deployment of the organisation's public website — 55 commits from first layout to the live version.
